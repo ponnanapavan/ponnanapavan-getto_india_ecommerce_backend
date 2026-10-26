@@ -52,7 +52,7 @@ Make sure you have installed:
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/ponnanapavan/ponnanapavan-getto_india_ecommerce_backend.git
    ```
 
 2. Navigate to the project directory:
