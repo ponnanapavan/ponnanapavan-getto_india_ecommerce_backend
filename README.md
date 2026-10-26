@@ -144,7 +144,7 @@ Before running tests, ensure that the test configuration connects to `TEST_DATAB
 - Use `.env.example` to document required environment variables without real passwords.
 - Use a dedicated PostgreSQL user with limited permissions when appropriate.
 - Keep development and test database connections separate.
-- If a database password has been exposed in a public repository or shared insecurely, change it immediately.
+
 
 ## 📌 Future Improvements
 
